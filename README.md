@@ -1,3 +1,3 @@
 # resume
 My latest resume
-Last working commit, hopefully this works out :)
+This is working update, name of the file has to be 'Himnish_Resume'. Do not edit the index.html
